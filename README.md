@@ -1,3 +1,19 @@
 # namaste_react
-
-- Creating Simple html file and inside the html create inner script tag printing hello world from JS
+- What Parcel do?
+- Dev build
+- Local Server
+- HMR = (refreshing)
+- File watching algo - written in c++
+- caching -> Faster build present in .parcel-cache
+- Image optimization
+- Minification
+- Bundling
+- Compress file
+- Consistent hashing
+- Code spliting
+- Differential bundling -> to support older & never browser along with devices
+- Diagnostic 
+- Error handling 
+- HTTPs
+- Tree shaking Algo - Remove unused code
+- Different dev and prod. bundlers.
