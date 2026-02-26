@@ -1,15 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-// React Element
+const elem = <span>React Element</span>
+
 const title = (
   <h1 className="head" tabIndex="1">
+    {elem}
     Namaste React🚀 using JSX
   </h1>
 );
 
-
-// React Function Component - NEW
 const HeadingComponent = () => (
   <div id="container">
       {title}
