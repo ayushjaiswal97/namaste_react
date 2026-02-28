@@ -48,3 +48,12 @@
   height: 150px;
   object-fit: cover;
 }
+
+.filter {
+  padding: 10px;
+}
+
+.filter-btn {
+  padding: 10px;
+  font-size: 16px;
+}
