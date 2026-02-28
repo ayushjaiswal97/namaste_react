@@ -43,3 +43,11 @@
  - Named Export/Import :-
  --> export const Component;
  --> import { Component } from "path";
+
+- Not using keys (not acceptable) <<<< index as key <<<<<<< unique id (best practice)
+
+# React Hooks
+- (Normal JS utility functions)
+- Two important hooks 
+--> useState() 
+--> useEffect()
